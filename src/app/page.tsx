@@ -20,10 +20,10 @@ export default function Home() {
         className="aspect-square w-[27.5rem] h-[48.48rem]"
       />
 
-      <div className="space-y-3 max-md:flex max-md:justify-center max-md:flex-col max-md:items-center">
+      <div className="space-y-3 max-md:flex max-md:justify-center max-md:flex-col max-md:gap-1 max-md:items-center">
         <TextHeader text="Imagine if" />
         <p className="bg-gradient-to-r font-bold lg:leading-[4.599375rem] max-md:text-[2.25rem] max-md:leading-[2.5875rem] lg:text-[4rem] from-light-purple to-light-pink bg-clip-text text-transparent">
-          Snapchat{" "}
+          Snapchat
         </p>
         <TextHeader text="had events." />
         <p className="lg:text-[1.5rem] max-md:hidden max-md:text-[1rem] text-darkgray lg:leading-[1.725rem] font-light max-md:leading-[1.15rem]">
